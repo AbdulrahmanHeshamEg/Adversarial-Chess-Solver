@@ -6,7 +6,7 @@ A Python-based chess game and solver that uses Artificial Intelligence algorithm
 This project implements adversarial search algorithms (like Minimax) to calculate the best moves in a chess game, allowing users to play against a smart AI opponent.
 
 ## Acknowledgments
-This project was developed as a part of our coursework at **Mansoura University**.
+This project was developed as part of the **AI-1** coursework at the **Artificial Intelligence Department, Faculty of Computers and Information, Mansoura University**.
 
 **Under the supervision of:**
 * Dr. Sara El-Metwally
